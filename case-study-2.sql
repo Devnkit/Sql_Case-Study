@@ -1,9 +1,3 @@
-Based on the SQL code you provided and the visual style of the image you uploaded, I have structured your project into a professional **Case Study** format.
-
-You can copy-paste the Markdown code below directly into your GitHub `README.md` or your portfolio site. I have grouped the 5 different SQL problems into a cohesive "Marketing & Sales Analytics" project.
-
------
-
 # 📦 Case Study: Marketing & Sales Performance Analytics
 
 ## 🧠 Business Scenario
