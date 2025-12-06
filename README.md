@@ -41,5 +41,5 @@ This repository reflects a wide range of analytical and technical SQL capabiliti
   Translating ambiguous business scenarios into structured SQL solutions.
 
 
-Each folder in this repository typically contains:
+Each folder in this repository typically contains:Thank you for visiting my Data Analysis Portfolio! I hope you find my case studies informative and insightful.
 
