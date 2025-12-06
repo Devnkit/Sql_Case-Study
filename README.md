@@ -39,7 +39,7 @@ This repository reflects a wide range of analytical and technical SQL capabiliti
   Summaries, KPI calculations, cohort-style insights, and metrics.
 - **Real-Life Business Logic Mapping**  
   Translating ambiguous business scenarios into structured SQL solutions.
+---
 
-
-Each folder in this repository typically contains:Thank you for visiting my Data Analysis Portfolio! I hope you find my case studies informative and insightful.
+Thank you for visiting my Data Analysis Portfolio! I hope you find my case studies informative and insightful.
 
